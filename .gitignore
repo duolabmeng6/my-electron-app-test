@@ -1,0 +1,8 @@
+.env
+.npmrc
+node_modules
+.nyc_output
+example/dist
+example/node_modules
+dump.rdb
+out
